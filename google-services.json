@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902734081732",
+    "project_id": "medical-app-16862",
+    "storage_bucket": "medical-app-16862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902734081732:android:2a14e6cf5a1f540eba6391",
+        "android_client_info": {
+          "package_name": "com.cerebrotech.medicalApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTkX2WbDLe1Y3z-bWUemDABqbZUPYDjxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

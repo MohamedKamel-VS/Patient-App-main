@@ -1,0 +1,40 @@
+{
+  "cli": {
+    "version": ">= 3.1.1"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "development-simulator": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "ios":{
+        "simulator":true
+      }
+    },
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      },
+      "ios":{
+        "simulator":true
+      }
+    },
+    "production": {
+      "ios":
+      {
+        "image": "latest"
+      }
+    }
+  },
+  "submit": {
+    "production": {"ios":{
+      "appleId": "moatazmohamed36@gmail.com",
+      "ascAppId": "6474633495",
+      "appleTeamId": "5L3S76WKG6",
+      "companyName":"SALAH AHMED MOHAMED MOHAMED AND PARTNERS"
+    }}
+  }
+}
